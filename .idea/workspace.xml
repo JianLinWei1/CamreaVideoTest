@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_media_jmf_2_1_1e.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_artoolkitplus_2_3_1_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_ffmpeg_4_0_2_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_ffmpeg_android_arm64_4_0_2_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_ffmpeg_android_arm_4_0_2_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_ffmpeg_android_x86_4_0_2_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_ffmpeg_android_x86_64_4_0_2_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_ffmpeg_linux_armhf_4_0_2_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_ffmpeg_linux_ppc64le_4_0_2_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_ffmpeg_linux_x86_4_0_2_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_ffmpeg_linux_x86_64_4_0_2_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_ffmpeg_macosx_x86_64_4_0_2_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_ffmpeg_platform_4_0_2_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_ffmpeg_windows_x86_4_0_2_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_ffmpeg_windows_x86_64_4_0_2_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_flandmark_1_07_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_flycapture_2_11_3_121_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_leptonica_1_76_0_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_libdc1394_2_2_5_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_libfreenect2_0_2_0_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_libfreenect_0_5_3_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_librealsense_1_12_1_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_opencv_3_4_3_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_tesseract_4_0_0_rc2_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_videoinput_0_200_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacv_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/SDKServerJava__3_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_logging_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jai_codec_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jna_5_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mina_core_2_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_api_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_log4j12_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CamreaVideoTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lib/SDKServerJava.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lib/commons-beanutils-1.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lib/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lib/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lib/commons-logging-1.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lib/ezmorph-1.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lib/jai-codec-1.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lib/jna-5.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lib/json-lib-2.1-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lib/log4j-1.2.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lib/mina-core-2.0.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lib/opencv-4.0.1-1.4.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lib/slf4j-api-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lib/slf4j-log4j12-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/H264StreamHander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/LimitQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/CamreaVideoTest.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/sample/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/sample/H264StreamHander.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/sample/LimitQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/sample/Main.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/JavaTools/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\new_maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectId" id="1UucUNREfiALf4LcuTEsacUjSU1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.27816093" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\new_workspace_java\CamreaVideoTest\src\main\java\lib" />
+      <recent name="D:\new_workspace_java\CamreaVideoTest\src\main\java\sample" />
+      <recent name="D:\new_workspace_java\CamreaVideoTest\src\lib" />
+      <recent name="D:\new_workspace_java\CamreaVideoTest\src" />
+      <recent name="D:\new_workspace_java\CamreaVideoTest\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\new_workspace_java\CamreaVideoTest\src\main\resources" />
+      <recent name="D:\new_workspace_java\CamreaVideoTest\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="CamreaVideoTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1576209940420" duration="4524000" />
+      <workItem from="1576220766938" duration="10575000" />
+      <workItem from="1576231380587" duration="1758000" />
+      <workItem from="1576303312376" duration="21000" />
+      <workItem from="1576460838495" duration="18009000" />
+      <workItem from="1576487903603" duration="4323000" />
+      <workItem from="1576547056690" duration="20700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1576553639984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576553639984" />
+    <state x="582" y="201" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1576231147106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="582" y="201" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576231147106" />
+    <state x="790" y="222" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1576223607130">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="222" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576223607130" />
+    <state x="690" y="269" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1576492031856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="269" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576492031856" />
+    <state x="690" y="277" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1576222680388">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="277" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576222680388" />
+    <state width="513" height="466" key="DebuggerActiveHint" timestamp="1576571648131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="513" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1576571648131" />
+    <state x="714" y="237" key="DetectedRootsChooserDialog" timestamp="1576222798180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="237" key="DetectedRootsChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576222798180" />
+    <state x="634" y="263" key="FileChooserDialogImpl" timestamp="1576576945848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="634" y="263" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576576945848" />
+    <state x="785" y="434" width="373" height="172" key="Github.CreateGistDialog" timestamp="1576576901518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="785" y="434" width="373" height="172" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576576901518" />
+    <state width="1877" height="256" key="GridCell.Tab.0.bottom" timestamp="1576576637806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="256" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576576637806" />
+    <state width="1877" height="256" key="GridCell.Tab.0.center" timestamp="1576576637806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="256" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576576637806" />
+    <state width="1877" height="256" key="GridCell.Tab.0.left" timestamp="1576576637806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="256" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576576637806" />
+    <state width="1877" height="256" key="GridCell.Tab.0.right" timestamp="1576576637806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="256" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576576637806" />
+    <state width="1877" height="256" key="GridCell.Tab.1.bottom" timestamp="1576576637707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="256" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576576637707" />
+    <state width="1877" height="256" key="GridCell.Tab.1.center" timestamp="1576576637707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="256" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576576637707" />
+    <state width="1877" height="256" key="GridCell.Tab.1.left" timestamp="1576576637707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="256" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576576637707" />
+    <state width="1877" height="256" key="GridCell.Tab.1.right" timestamp="1576576637707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="256" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576576637707" />
+    <state x="440" y="97" key="SettingsEditor" timestamp="1576576682820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="97" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576576682820" />
+    <state x="334" y="227" key="new project wizard" timestamp="1576222022943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="227" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1576222022943" />
+  </component>
+</project>
